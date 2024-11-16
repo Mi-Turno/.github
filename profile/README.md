@@ -16,10 +16,10 @@ El propósito principal de este sistema es ofrecer una solución integral para l
 
 El proyecto está compuesto por dos repositorios principales, que trabajan en conjunto para ofrecer una solución completa:
 
-1. **[Mi Turno Frontend](https://github.com/organizacion/mi-turno-frontend)**  
+1. **[Mi Turno Frontend](https://github.com/Mi-turno/mi-turno-frontend)**  
    Este repositorio contiene la aplicación web, que incluye la interfaz de usuario y toda la lógica del cliente.
 
-2. **[Mi Turno Backend](https://github.com/organizacion/mi-turno-backend)**  
+2. **[Mi Turno Backend](https://github.com/Mi-turno/mi-turno-backend)**  
    Aquí se encuentra el servidor, que gestiona la lógica de negocio, la base de datos y las APIs REST necesarias para el funcionamiento del sistema.
 
 Ambos repositorios están diseñados para trabajar juntos, ofreciendo una experiencia integrada que cubre todas las necesidades del sistema, desde la interacción con el cliente hasta el manejo interno de los datos.
