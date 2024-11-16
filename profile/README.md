@@ -28,6 +28,12 @@ Ambos repositorios están diseñados para trabajar juntos, ofreciendo una experi
 
 ## Tecnologías Utilizadas
 
+- **Planeación**:
+  - Jira: Gestión de tareas (SCRUM)
+  - Miro: Diseño de interfaces y diagramas
+  - Github: Gestión de versiones
+  - Discord: Comuniación
+   
 - **Frontend**:  
   - HTML, CSS y TypeScript.  
   - Framework: Angular.
@@ -45,7 +51,7 @@ Ambos repositorios están diseñados para trabajar juntos, ofreciendo una experi
 
 ### Requisitos previos
 Antes de comenzar, asegúrate de tener instaladas las siguientes herramientas:
-- **Node.js** y **Angular CLI** para ejecutar el frontend.
+- **Node.js** y **Angular 18 CLI** para ejecutar el frontend.
 - **Java JDK** (versión 11 o superior) y **Maven** para el backend.
 - **MySQL** para la base de datos.
 
