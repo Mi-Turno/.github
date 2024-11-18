@@ -62,8 +62,8 @@ Antes de comenzar, asegúrate de tener instaladas las siguientes herramientas:
 ### Pasos para instalar el proyecto
 1. Clona los repositorios del frontend y backend:
    ```bash
-   git clone https://github.com/organizacion/mi-turno-frontend.git
-   git clone https://github.com/organizacion/mi-turno-backend.git
+   git clone https://github.com/Mi-turno/mi-turno-frontend.git
+   git clone https://github.com/Mi-turno/mi-turno-backend.git
 
 
 ### Configura la base de datos:
