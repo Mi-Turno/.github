@@ -10,6 +10,10 @@ El propósito principal de este sistema es ofrecer una solución integral para l
 - **Negocios**: Está dirigido a pequeños y medianos negocios que necesitan una herramienta eficiente para gestionar turnos y optimizar sus servicios.
 - **Clientes**: También está diseñado para usuarios que deseen encontrar y reservar turnos fácilmente en cualquiera de los negocios registrados dentro del hub.
 
+
+### Sobre nosotros
+- Este proyecto fue desarrollado en el marco de la carrerea de Técnivo Universitario en Prorgamaión de la UTN-FRMDP en conjunto con las materias Laboratorio de computación 4 y Metodología de sistemas 1.
+- El grupo está integrado por los estudiantes: Caimmi Leonardo, Golisciano Fabrizio y Procelli Facundo.
 ---
 
 ## Estructura de la Organización
